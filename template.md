@@ -1,28 +1,29 @@
-# 📆 Add and subtract from date
+# 🎅 Headline
 
-The functions ``DATE_ADD`` and ``DATE_SUB`` let's you add/subtract from a given date.
+A quick description of what this page introduces.
+
+Remember to replace the icon with one of your choice.
 
 ````mysql
-DATE_ADD(from, interval)
-DATE_SUB(from, interval)
+function_signature(param1, param2)
 ````
 
 ## ✏️ Examples
-### Add 2 weeks to current date
+### Description of example 1
+You can optionally add more text here, but preferably the headline is self-explanatory
 ````mysql
-DATE_ADD(NOW(), INTERVAL 2 WEEK)
+function_signature(10, 5);
 ````
 
-### Subtract 10 seconds from ``column_name``
+### Description of example 2
+You can optionally add more text here, but preferably the headline is self-explanatory
 ````mysql
-DATE_SUB(column_name, INTERVAL 10 SECOND)
+function_signature(-10, 5 * 5);
 ````
 
-### Subtract 48 hours from a specified date
-````mysql
-DATE_SUB("2024-02-09 15:00", INTERVAL 48 HOUR)
-````
+## 📜 Notes
+Some general notes about the behavior of what this page introduces.
+It should not be a detailed documentation, or attempt to keep it short and useful.
 
-## Notes 📜
-The interval must be written in singular form, even when in natural English, it
-should have been plural. So ``2 WEEK``, _not_ ``2 WEEKS``.
+## 📌 Links
+_Links to various pages, for instance the official documentation or tutorials._
