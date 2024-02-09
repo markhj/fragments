@@ -3,11 +3,13 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/markhj/fragments)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?label=license)
 
+# Fragments
+
 Welcome to **Fragments** 👋
 
 This repository contains code snippets from several languages and frameworks.
 
-# 🔨  Purpose
+## 🔨  Purpose
 
 The purpose is to provide:
 
@@ -15,13 +17,15 @@ The purpose is to provide:
 -   Solutions to "typical" problems
 -   Ideas, tips and tricks that may be unfamiliar to many users
 
-The purpose is not to serve tutorials or complex guides, rather quick and to-the-point snippets.
+The purpose is not to serve tutorials or complex guides, rather quick
+and to-the-point snippets.
 
-# 📦 How to use
+## 📦 How to use
 
 Browse through the repository, by following the language (and framework, if applicable).
 
-# 🍀 Contribute
+## 🍀 Contribute
+
 Anyone can take part. Simply create a pull request, and it will be reviewed.
 
 Read more under [contribute.md](contribute.md)

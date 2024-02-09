@@ -24,6 +24,6 @@ Now, all you do is wait for it to be reviewed.
 
 ### Markdown editors
 
-*   Pretty much any text editor can do, if you install Python and Markdown locally. With this, you can host
+* Pretty much any text editor can do, if you install Python and Markdown locally. With this, you can host
 the documentation locally, and see how your changes look.
-*   [JetBrains Writerside](https://www.jetbrains.com/writerside/)
+* [JetBrains Writerside](https://www.jetbrains.com/writerside/)
