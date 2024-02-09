@@ -23,3 +23,5 @@ Browse through the repository, by following the language (and framework, if appl
 
 # 🍀 Contribute
 Anyone can take part. Simply create a pull request, and it will be reviewed.
+
+Read more under [contribute.md](contribute.md)
