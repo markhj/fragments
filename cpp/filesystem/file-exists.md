@@ -1,10 +1,14 @@
-# Include
+# File exists
+
+How to check if a file exists.
+
+## Include
 
 ````C++
 #include <filesystem>
 ````
 
-# Code
+## Code
 
 ````C++
 if (std::filesystem::exists("path/to/file")) {
