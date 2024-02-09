@@ -4,17 +4,18 @@
 
 You can use any tool of your choice to write Markdown files.
 
-You can use the file ``template.md`` to utilize the structured generally recommended for pages in this repo.
+You can use the file ``template.md`` to utilize the structured generally
+recommended for pages in this repo.
 
-Once you've added (or updated existing) files, you make a pull request towards the
-repo:
+Once you've added (or updated existing) files, you make a pull request
+towards the repo:
 
 [Create pull request](https://github.com/markhj/fragments/pulls)
 
 Now, all you do is wait for it to be reviewed.
 
-> Please note that the repo is in an early state of its formation, and clearer guidelines will be provided
-> as the repo grows more mature.
+> Please note that the repo is in an early state of its formation, and
+> clearer guidelines will be provided  as the repo grows more mature.
 
 ## 🔨 Tools
 

@@ -13,6 +13,7 @@ function_signature(param1, param2)
 ### Description of example 1
 
 You can optionally add more text here, but preferably the headline is self-explanatory
+
 ````mysql
 function_signature(10, 5);
 ````
